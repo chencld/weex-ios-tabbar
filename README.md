@@ -12,5 +12,5 @@
 ---
 欢迎访问[我的博客](https://chencld.github.io/)
 ---
-欢迎访问[我的微博](https://chencld.github.io/)
+欢迎访问[我的微博](https://m.weibo.cn/status/4219015872734256?wm=3333_2001&sourcetype=weixin&featurecode=newtitle&from=singlemessage&isappinstalled=0)
 ---
